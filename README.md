@@ -15,6 +15,7 @@ Types of Automation Framework
 4. Behavior Driven Development Framework
 
 --------------
+Page Object Model:
 No default Object Repository in Selenium
 
 Objects as locators such as ID, Name, ClassName , Tag Name,Link Text, Partial Link Text, XPath, CSS
@@ -22,7 +23,6 @@ Objects as locators such as ID, Name, ClassName , Tag Name,Link Text, Partial Li
 Use Page Object Model Design Pattern each webpage is represented as Class.
 
 --------------
-
 Test Types :
 
 1. Functional : Smoke  and Sanity Testing
@@ -31,3 +31,19 @@ Test Types :
 4. change related : Regression & Retesting
 
 --------------
+- Smoke Testing : 
+- Sanity Testing : 
+- Function Testing : 
+- Integration Testing : 
+- System Testing : 
+- Acceptance Testing : 
+- Compatibility Testing : 
+- Adhoc Testing : randomly test 
+- Performance Testing : 
+- Usability Testing : 
+- Accessibility Testing : 
+- Reliability : Long term testing 
+- Regression Testing : 
+
+--------------
+
